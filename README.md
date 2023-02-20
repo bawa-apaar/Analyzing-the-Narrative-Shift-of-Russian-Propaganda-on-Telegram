@@ -9,5 +9,4 @@ Given Telegram’s popularity and growing influence, I collect and analyze data 
 I used telegram's Telethon library to interact with Telegram. 
 
 To install Telethon:
-python3 -m pip install --upgrade telethon
- 
+`python3 -m pip install telethon`
